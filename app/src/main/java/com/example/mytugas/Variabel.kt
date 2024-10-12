@@ -19,4 +19,13 @@ fun main() {
     val doubleValue: Double = 60.6
     println(doubleValue)
 
+    // Char
+    val charValue: Char = 'A'
+    println(charValue)
+
+    // Boolean
+    val booleanValue: Boolean = true
+    println(booleanValue)
+
+
 }
